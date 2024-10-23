@@ -5,20 +5,10 @@ Problem Statement
 You are tasked with evaluating the effectiveness of the marketing lead acquisition strategy by analyzing lead history data over one month. The data is provided in two key tables:
 
 Lead History: Records status changes as leads move through the funnel. It includes the following fields:
-Lead ID
-Activity Date
-Field
-New Value
-Lead Created Date
+Lead ID, Activity Date, Field, New Value, Lead Created Date
 
 Lead Metadata: Contains metadata about the leads, including:
-Lead ID
-Country
-Industry
-Title
-Source
-Account Based Marketing (ABM)
-Acquisition URL
+Lead ID, Country, Industry, Title, Source, Account Based Marketing (ABM), Acquisition URL
 
 ## Goal
 You are required to present your findings that:
