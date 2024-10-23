@@ -3,12 +3,12 @@
 ## Technical Panel Interview
 
 ### Problem Statement
-You are tasked with evaluating the effectiveness of our marketing lead acquisition strategy by analyzing one month of lead history data. The data is provided in two key tables:
+You are tasked with evaluating the effectiveness of our lead acquisition strategy by analyzing one month of lead history data. The data is provided in two key tables:
 
-Lead History: Records status changes as leads move through the funnel. It includes the following fields:
+Lead History - Status changes as leads move through the marketing funnel. 
 Lead ID, Activity Date, Field, New Value, Lead Created Date
 
-Lead Metadata: Contains metadata about the leads, including:
+Lead Metadata - Contains metadata about the leads.
 Lead ID, Country, Industry, Title, Source, Account Based Marketing (ABM), Acquisition URL
 
 ### Goal
